@@ -77,3 +77,7 @@ DerivedDataCache/*
 Packages_Dev
 Packages_Ship
 StagedBuilds
+
+# Js things
+node_modules
+*.zip
